@@ -10,7 +10,6 @@ If you have additional versions that are not listed here, contributions are welc
 
 ## IOS
 Due to the way iOS applications are distributed and encrypted, obtaining usable versions is more complex. Decryption typically requires a jailbroken device, which is not currently available.
-
 If you have access to a jailbroken device or would like to work with the encrypted file, it is provided below:
 | Download Encrypted IPA |
 |----------------|

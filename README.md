@@ -11,6 +11,6 @@ in order to maybe decrypt them is using a jailbroken iphone which i dont have.
 if you do have a jailbroken iphone or want to try the ipa here it is.
 | 📦 Download IPA |
 |----------------|
-| [Click here to download](https://cdn.ismand.xyz/Soba-2.250.5.ipa) |
+| (https://cdn.ismand.xyz/Soba-2.250.5.ipa) |
 
 ## Android

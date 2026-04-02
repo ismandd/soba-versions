@@ -1,14 +1,17 @@
 # Soba Versions
-this is a repo for all versions of soba game maker
+This repository contains archived versions of the Soba Game Maker across multiple platforms.
+
+If you have additional versions that are not listed here, contributions are welcome.
 
 ## Windows
+
 
 ## Macos
 
 ## IOS
-i cant get ios versions because of how ios apps work and are encrypted. 
-in order to maybe decrypt them is using a jailbroken iphone which i dont have.
-if you do have a jailbroken iphone or want to try the ipa here it is.
+Due to the way iOS applications are distributed and encrypted, obtaining usable versions is more complex. Decryption typically requires a jailbroken device, which is not currently available.
+
+If you have access to a jailbroken device or would like to work with the encrypted file, it is provided below:
 | Download Encrypted IPA |
 |----------------|
 | https://cdn.ismand.xyz/Soba-2.250.5.ipa |

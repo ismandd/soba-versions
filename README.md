@@ -9,6 +9,8 @@ this is a repo for all versions of soba game maker
 i cant get ios versions because of how ios apps work and are encrypted. 
 in order to maybe decrypt them is using a jailbroken iphone which i dont have.
 if you do have a jailbroken iphone or want to try the ipa here it is.
-| Download IPA | |----------------| | https://cdn.ismand.xyz/Soba-2.250.5.ipa |
+| Download IPA |
+|----------------|
+| https://cdn.ismand.xyz/Soba-2.250.5.ipa |
 
 ## Android

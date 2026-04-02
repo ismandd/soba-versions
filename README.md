@@ -4,8 +4,9 @@ This repository contains archived versions of the Soba Game Maker across multipl
 If you have additional versions that are not listed here, contributions are welcome.
 
 ## Windows
-
-
+| Version | Download Link |
+|---------|---------------|
+| Soba-v2.63.1_win | https://cdn.ismand.xyz/Soba-v2.63.1_win.zip |
 ## Macos
 
 ## IOS

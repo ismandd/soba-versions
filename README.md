@@ -3,7 +3,7 @@ This repository contains archived versions of the Soba Game Maker across multipl
 
 If you have additional versions that are not listed here, contributions are welcome.
 
-## Links probally dont work!
+# Links probally dont work!
 
 ## Windows
 | Version | Download Link |

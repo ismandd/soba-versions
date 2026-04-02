@@ -7,6 +7,7 @@ If you have additional versions that are not listed here, contributions are welc
 | Version | Download Link |
 |---------|---------------|
 | v2.63.1 | https://cdn.ismand.xyz/Soba-v2.63.1_win.zip |
+| v2.113.1 | https://cdn.ismand.xyz/Soba-v2.113.1_win.zip |
 ## Macos
 
 ## IOS

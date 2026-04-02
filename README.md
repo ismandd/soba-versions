@@ -6,11 +6,13 @@ If you have additional versions that are not listed here, contributions are welc
 ## Windows
 | Version | Download Link |
 |---------|---------------|
+| v2.28.0 | https://cdn.ismand.xyz/Soba-v2.28.0_win.zip |
 | v2.63.1 | https://cdn.ismand.xyz/Soba-v2.63.1_win.zip |
 | v2.113.1 | https://cdn.ismand.xyz/Soba-v2.113.1_win.zip |
 ## Macos
 | Version | Download Link |
 |---------|---------------|
+| v2.28.0 | https://cdn.ismand.xyz/Soba-v2.28.0_mac.zip |
 | v2.113.1 | https://cdn.ismand.xyz/Soba-v2.113.1_mac.zip |
 
 ## IOS

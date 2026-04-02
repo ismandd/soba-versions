@@ -9,6 +9,9 @@ If you have additional versions that are not listed here, contributions are welc
 | v2.63.1 | https://cdn.ismand.xyz/Soba-v2.63.1_win.zip |
 | v2.113.1 | https://cdn.ismand.xyz/Soba-v2.113.1_win.zip |
 ## Macos
+| Version | Download Link |
+|---------|---------------|
+| v2.113.1 | https://cdn.ismand.xyz/Soba-v2.113.1_mac.zip |
 
 ## IOS
 Due to the way iOS applications are distributed and encrypted, obtaining usable versions is more complex. Decryption typically requires a jailbroken device, which is not currently available.

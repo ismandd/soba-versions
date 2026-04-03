@@ -23,14 +23,14 @@ Due to the way iOS applications are distributed and encrypted, obtaining usable 
 If you have access to a jailbroken device or would like to work with the encrypted file, it is provided below:
 | Version | Download Link |
 |---------|---------------|
-| v2.24.0 | https://cdn.ismand.xyz/Soba-2.24.0.ipa |
-| v2.28.0 | https://cdn.ismand.xyz/Soba-2.28.0.ipa |
-| v2.63.1 | https://cdn.ismand.xyz/Soba-2.63.1.ipa |
-| v2.97.0 | https://cdn.ismand.xyz/Soba-2.97.0.ipa |
-| v2.113.1 | https://cdn.ismand.xyz/Soba-2.113.1.ipa |
-| v2.246.4 | https://cdn.ismand.xyz/Soba-2.246.4.ipa |
-| v2.250.3 | https://cdn.ismand.xyz/Soba-2.250.3.ipa |
-| v2.250.5 | https://cdn.ismand.xyz/Soba-2.250.5.ipa |
+| v2.24.0 | https://cdn.ismand.xyz/Soba-v2.24.0.ipa |
+| v2.28.0 | https://cdn.ismand.xyz/Soba-v2.28.0.ipa |
+| v2.63.1 | https://cdn.ismand.xyz/Soba-v2.63.1.ipa |
+| v2.97.0 | https://cdn.ismand.xyz/Soba-v2.97.0.ipa |
+| v2.113.1 | https://cdn.ismand.xyz/Soba-v2.113.1.ipa |
+| v2.246.4 | https://cdn.ismand.xyz/Soba-v2.246.4.ipa |
+| v2.250.3 | https://cdn.ismand.xyz/Soba-v2.250.3.ipa |
+| v2.250.5 | https://cdn.ismand.xyz/Soba-v2.250.5.ipa |
 
 ## Android
 | Version | Download Link |
